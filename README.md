@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 
-
+- A set of projects for controlling a TMI1829 based LED-stripe with an Arduino Micro, a C# based GUI and a Node.Js Web-Server
 
 <!--
 **Monkmitrad/monkmitrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
