@@ -4,6 +4,7 @@
 
 - A set of projects for controlling a TMI1829 based LED-stripe with an Arduino Micro, a C# based GUI and a Node.Js Web-Server
 - My personal webpage
+- An adaption of the "20 questions" game
 
 🌱 I’m currently learning ...
 - Virtualization with Docker and Kubernetes
