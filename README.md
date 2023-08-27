@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-
-- A set of projects for controlling a TMI1829 based LED-stripe with an Arduino Micro, a C# based GUI and a Node.Js Web-Server
 - My personal webpage
-- An adaption of the "20 questions" game
+- Productivity tools for my personal work
 
 🌱 I’m currently learning ...
 - Virtualization with Docker and Kubernetes
+- React
 
 <!--
 **Monkmitrad/monkmitrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
