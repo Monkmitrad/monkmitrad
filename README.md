@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-- My personal webpage
-- Productivity tools for my personal work
+- Productivity tools for my volunteer work
 
 🌱 I’m currently learning ...
-- Virtualization with Docker and Kubernetes
-- React
+- this and that, I have no focus currently
 
 <!--
 **Monkmitrad/monkmitrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
